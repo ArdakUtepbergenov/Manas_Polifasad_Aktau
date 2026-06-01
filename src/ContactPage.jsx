@@ -99,9 +99,9 @@ function ContactPage({ navigate, onOpenConsult }) {
             <ContactCard
               icon={<Icons.Instagram size={22}/>}
               label="INSTAGRAM"
-              value="@manas_stroi"
+              value="@manas_stroi_aktau"
               hint="82 200 подписчиков"
-              href="https://instagram.com/manas_stroi/"
+              href="https://www.instagram.com/manas_stroi_aktau/"
             />
           </div>
         </Container>
