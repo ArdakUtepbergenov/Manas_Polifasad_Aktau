@@ -162,7 +162,7 @@ function ContactPage({ navigate, onOpenConsult }) {
                     <Icons.WhatsApp size={14}/> Написать
                   </a>
                   <span className="text-ink-200">·</span>
-                  <a href="tel:+77022749363" className="text-accent hover:text-accent-dark">+7 (778) 030-17-07</a>
+                  <a href="tel:+77022749363" className="text-accent hover:text-accent-dark">+7 702 274 93 63</a>
                 </div>
               </div>
             </div>
